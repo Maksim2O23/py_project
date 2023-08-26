@@ -1,3 +1,3 @@
-from funcs import subtract
+from funcs import add
 
-print(subtract(10, 4))
+print(add(5, 3))
